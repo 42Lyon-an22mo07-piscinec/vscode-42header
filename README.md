@@ -1,5 +1,5 @@
 <img
-  src="https://raw.githubusercontent.com/secondfry/vscode-42header/master/42.png"
+  src="https://raw.githubusercontent.com/42Lyon-an22mo07-piscinec/vscode-42header/master/42.png"
   width=128>
 
 # 42 Header for VSCode
@@ -15,7 +15,7 @@ This extension provides the 42 header integration in VS Code.
 #    By: kube <hello@kube.io>                       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2013/11/18 13:37:42 by kube              #+#    #+#              #
-#    Updated: 2016/09/18 13:11:04 by kube             ###   ########.fr        #
+#    Updated: 2016/09/18 13:11:04 by kube             ###   ########lyon.fr    #
 #                                                                              #
 # **************************************************************************** #
 ```
@@ -52,7 +52,7 @@ To override these values, specify these properties in *User Settings* :
 
 ## Issues
 
-In case of a bug, or missing feature, please create a [Github Pull Request](https://github.com/secondfry/vscode-42header/pulls).
+In case of a bug, or missing feature, please create a [Github Pull Request](https://github.com/42Lyon-an22mo07-piscinec/vscode-42header/pulls).
 
 ## License
 

@@ -33,7 +33,7 @@ const genericTemplate = `
 *    By: $AUTHOR___________________________________ +#+  +:+       +#+         *
 *                                                 +#+#+#+#+#+   +#+            *
 *    Created: $CREATEDAT_________ by $CREATEDBY______  #+#    #+#              *
-*    Updated: $UPDATEDAT_________ by $UPDATEDBY______ ###   ########.fr        *
+*    Updated: $UPDATEDAT_________ by $UPDATEDBY______ ###   ########lyon.fr    *
 *                                                                              *
 ********************************************************************************
 
