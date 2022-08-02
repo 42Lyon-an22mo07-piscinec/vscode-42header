@@ -22,9 +22,9 @@ This extension provides the 42 header integration in VS Code.
 
 ## Install
 
-Launch Quick Open with <kbd>⌘</kbd>+<kbd>P</kbd> and enter
 ```
-ext install 42header
+git clone https://github.com/42Lyon-an22mo07-piscinec/vscode-42header
+cp -r vscode-42header .vscode/extensions/
 ```
 
 ## Usage
